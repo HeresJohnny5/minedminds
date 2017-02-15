@@ -1,1 +1,2 @@
 # minedminds
+# new notes updates
